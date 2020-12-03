@@ -34,6 +34,8 @@ After downloading the project, at the root of it run the following command to in
 
 Note: Make sure that python (3.x) is installed
 
+Create a file named **.env** with the same contents as the **env-sample** file that is in the project folder.
+
 Now run the command to run the server in an approval environment:
 
 `$ python manage.py runserver`
