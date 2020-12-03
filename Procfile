@@ -1,0 +1,1 @@
+web: gunicorn modec.wsgi --log-file -
